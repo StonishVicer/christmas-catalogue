@@ -33,12 +33,15 @@ const giftData = {
         ]
     },
     gaming: {
-        title: "Gaming",
-        subtitle: "Para disfrutar mejor mis tiempos de juego",
+        title: "Gaming y Anime",
+        subtitle: "Para disfrutar mejor mis tiempos de juego y mis gustos de entretenimiento",
         items: [
             { image: "src/images/tarjeta-regalo.webp", name: "Tarjeta de Regalo", desc: "De Steam, Riot Points o la que sea", price: "$$" },
             { image: "src/images/luces-rgb.webp", name: "Luces RGB", desc: "Suaves para crear ambiente mientras juego", price: "$" },
             { image: "src/images/control-pc.webp", name: "Control para PC", desc: "Para jugar algunos juegos más relajado", price: "$$" },
+            { image: "src/images/manga-anime.webp", name: "Mangas", desc: "Jujutsu Kaisen, Blue Lock, Chainsaw Man, JoJo's Bizarre Adventure", price: "$" },
+            { image: "src/images/plushies.webp", name: "Peluches de anime o juegos, o peluches en general", desc: "Fnaf, Blue Lock, Jujutsu Kaisen, animales, puede ser cualquier cosa", price: "$" },
+            { image: "src/images/nendo.webp", name: "Nendoroids o figuras de anime", desc: "Fnaf, Blue Lock, Jujutsu Kaisen, Chainsaw Man, o preguntar", price: "$" },
         ]
     },
     gym: {
@@ -46,7 +49,8 @@ const giftData = {
         subtitle: "Para las metas de 2026",
         items: [
             { image: "src/images/ropa-deportiva.webp", name: "Ropa Deportiva", desc: "Camisetas, shorts o joggers cómodos para entrenar", price: "$" },
-            { image: "src/images/membresia-gym.webp", name: "Membresia del Gym", desc: "Membresía o pases mensuales", price: "$$" }
+            { image: "src/images/membresia-gym.webp", name: "Membresia del Gym", desc: "Membresía o pases mensuales", price: "$$" },
+            { image: "src/images/pelota-futbol.webp", name: "Balon Futból", desc: "Para desarrollar una nueva habilidad en algo que ha comenzado a gustarme recientemente", price: "$"},
         ]
     },
     selfcare: {
