@@ -9,7 +9,8 @@ const giftData = {
             { image: "src/images/difusor.webp", name: "Difusor o Humidificador", desc: "Pequeño, para que el espacio huela bien y tenga mejor ambiente", price: "$" },
             { image: "src/images/plantas.webp", name: "Plantas Sencillas", desc: "Algo fácil de cuidar como pothos o suculentas", price: "$" },
             { image: "src/images/estantes.webp", name: "Estantes Flotantes", desc: "Para aprovechar la pared y tener más espacio", price: "$" },
-            { image: "src/images/repisa.webp", name: "Repisa o Librería Pequeña", desc: "Donde poner libros y cosas sin que estorben", price: "$" }
+            { image: "src/images/repisa.webp", name: "Repisa o Librería Pequeña", desc: "Donde poner libros y cosas sin que estorben", price: "$" },
+            { image: "src/images/silla-of.webp", name: "Silla de Oficina", desc: "La verdad me hace falta una nueva", price: "$$" }
         ]
     },
     tech: {
